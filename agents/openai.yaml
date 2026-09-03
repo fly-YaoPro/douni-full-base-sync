@@ -1,0 +1,4 @@
+interface:
+  display_name: "豆尼多维全量表同步"
+  short_description: "完整扫描全部机构表的记录、字段与附件并同步到多维总表"
+  default_prompt: "请完整扫描全部机构表并全量同步到“全量表（AI维护）”，完成后核对记录、字段和附件。"
